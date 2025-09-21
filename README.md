@@ -1,12 +1,12 @@
 # Healthify Application
 
-This is an application that has been developed to have a personalised Fitness app that will advice the users on what to do in case of some health issues.
+This project involves the development of a personalized fitness and wellness application that provides users with actionable guidance for various health concerns. 
 
-Modules that are being used are streamlit, google.generative ai and pandas.
+The application leverages Streamlit for the web interface, Google’s Generative AI for intelligent responses, and Pandas for data handling and preprocessing.
 
-What happens is that the user asks a question related to certain health problems and then the Model searches the net and gives advice , precautions, guidances on what to do next.
+Users can submit health-related queries, and the system processes the input to generate context-aware advice, precautions, and recommendations. 
 
-This model is being deployed on Streamlit.
+The application is deployed on Streamlit, offering a user-friendly interface for real-time, personalized health guidance and wellness support.
 
 Thank you,
-Zaid.
+Zaid Osman.
